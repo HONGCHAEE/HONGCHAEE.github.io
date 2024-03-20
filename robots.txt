@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://HONGCHAEE.github.io/al-folio/sitemap.xml
+Sitemap: https://hongchaee.github.io/al-folio/sitemap.xml
